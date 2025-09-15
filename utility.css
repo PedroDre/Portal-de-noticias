@@ -1,9 +1,12 @@
-*grid{
+
+.grid{
     display: flex;
 }
-*grid-flow-col{
+
+.grid-flow-col{
     grid-auto-flow: column;
 }
-*grid-cols-2{
+
+.grid-cols-2{
     grid-template-columns: 1fr 1fr;
 }
