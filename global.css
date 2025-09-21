@@ -45,6 +45,11 @@ img {
   max-width: 100%;
 }
 
+main{
+  margin-top: 40px;
+}
+
+
 .container {
   max-width: 1280px;
   padding-inline: 32px;
