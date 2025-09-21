@@ -97,6 +97,7 @@ grid-area: weekly;
   grid-area: ia;
 
   img {
+    padding: 8px; 
     width: 176px;
     aspect-ratio: 1/1;
     object-fit: cover;
@@ -104,6 +105,7 @@ grid-area: weekly;
 
   h3 {
     margin-block: 8px 4px;
+
 }
 }
 
