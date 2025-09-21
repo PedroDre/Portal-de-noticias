@@ -20,6 +20,10 @@
 
     }
 
+    &:has(.text-lg) {
+      padding: 12px;
+    }
+
 
 
     &:before {
